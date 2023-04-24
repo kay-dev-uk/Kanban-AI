@@ -44,8 +44,11 @@ OpenAI, GitHub, StackOverflow
 
 #### AI Features Demo
 
-
+### Landing Page
 ![landing page](https://raw.githubusercontent.com/Baskin-Ridley/KanbanAI/staging/Readme%20Assets/landing%20page.png)
 
-
+### Board Page
 ![board page](https://raw.githubusercontent.com/Baskin-Ridley/KanbanAI/staging/Readme%20Assets/main%20board.png)
+
+### AI task creation
+![AI task creation](https://res.cloudinary.com/dlxcjxezc/image/upload/v1681999938/Kanban-3_fndutn.png)
